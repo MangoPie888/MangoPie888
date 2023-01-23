@@ -12,7 +12,8 @@ Hey, I'm Zijing Wang!
 
 
 
-</div>![](https://user-images.githubusercontent.com/106550897/214096689-88105b47-570c-4db0-9e43-f7137462ba74.gif)
+</div>
+![cat]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47rrzmy06dipdrse7ri84k8f0wi2jaxccilbame82i&rid=giphy.gif&ct=g))
 
 
 
