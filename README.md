@@ -9,7 +9,7 @@ Hey, I'm Zijing Wang!
     
 <div>
 <img align="left" height='400px' width="400px" 
-<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>/>
+src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
 </div>
 
