@@ -12,7 +12,7 @@ Hey, I'm Zijing Wang!
 
 
 
-</div>![giphy](https://user-images.githubusercontent.com/106550897/214096689-88105b47-570c-4db0-9e43-f7137462ba74.gif)
+</div>![](https://user-images.githubusercontent.com/106550897/214096689-88105b47-570c-4db0-9e43-f7137462ba74.gif)
 
 
 
