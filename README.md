@@ -13,7 +13,7 @@ Hey, I'm Zijing Wang!
 
 
 </div>
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47rrzmy06dipdrse7ri84k8f0wi2jaxccilbame82i&rid=giphy.gif&ct=g)" width="40" height="40" />
+<img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47526vhs373r84a7upzw0lamqs3jxjdsh934rok7aq&rid=giphy.gif&ct=g" width="40" height="40" />
 
 
 
