@@ -8,7 +8,8 @@ Hey, I'm Zijing Wang!
 </h1>
     
 <div>
-<img align="left" height='400px' width="400px" src='[https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966](https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47rrzmy06dipdrse7ri84k8f0wi2jaxccilbame82i&rid=giphy.gif&ct=g)' />
+<img align="left" height='400px' width="400px" 
+<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>/>
 
 </div>
 
