@@ -39,8 +39,7 @@ Hey, I'm Zijing Wang!
 <!-- <div align="center">
 <h1>Stats :chart_with_upwards_trend: </h1>
   
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rose-g&theme=midnight-purple&custom_title=Languages&langs_count=4&show_icons=true)
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-rose-g&count_private=true&theme=midnight-purple&custom_title=Stats&hide=contribs&line_height=40)
+
 </br>
 
 </div> -->
@@ -49,14 +48,14 @@ Hey, I'm Zijing Wang!
 <h1 align="center">Connect with me!</h1>
 <div align="center">
   
-<a href="https://www.linkedin.com/in/cindyroseguzman/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/cindy-rose-guzman" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
-<a href="mailto:dev.cindyrose.go@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/zijing-wang-40297b261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/zijing-wang-2">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+<a href="mailto:dev.vivianwanglv339@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
 <!--
-<p> My name is Cindy Guzman </p> <p> Thanks for stopping by my GitHub Profile. </p> 
+<p> My name is Zijing Wang </p> <p> Thanks for stopping by my GitHub Profile. </p> 
 
-**c-rose-g/c-rose-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MangoPie888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #  Frameworks and tools
 Here are some ideas to get you started:
 
