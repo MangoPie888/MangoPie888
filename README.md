@@ -9,11 +9,11 @@ Hey, I'm Zijing Wang!
     
 <div>
   
-
+<img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47526vhs373r84a7upzw0lamqs3jxjdsh934rok7aq&rid=giphy.gif&ct=g" width="40" height="40" />
 
 
 </div>
-<img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47526vhs373r84a7upzw0lamqs3jxjdsh934rok7aq&rid=giphy.gif&ct=g" width="40" height="40" />
+
 
 
 
