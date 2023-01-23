@@ -50,7 +50,7 @@ Hey, I'm Zijing Wang!
   
 <a href="https://www.linkedin.com/in/zijing-wang-40297b261/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/zijing-wang-2">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
-<a href="mailto:dev.vivianwanglv339@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:vivianwanglv339@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
 <!--
 <p> My name is Zijing Wang </p> <p> Thanks for stopping by my GitHub Profile. </p> 
