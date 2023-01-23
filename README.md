@@ -7,9 +7,9 @@ Hey, I'm Zijing Wang!
     
 </h1>
     
-<div>
-<img align="left" height='400px' width="400px" 
-src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+<div>![giphy](https://user-images.githubusercontent.com/106550897/214096571-a3862ab9-a929-44d4-9311-6070ccb10c00.gif)
+
+
 
 </div>
 
